@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:828/1*TlbU0F-waQf7_zOfhUNldQ.gif)]
+[![MasterHead](https://www.ubs.com/content/dam/ubs/microsites/artificial-intelligence/img-chapter-three-header.gif)]
 <h1 align="center">Hi 👋, I'm Priyanshu singh</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 <img align="center" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
