@@ -1,15 +1,15 @@
 [![MasterHead](https://www.ubs.com/content/dam/ubs/microsites/artificial-intelligence/img-chapter-three-header.gif)]
-<h1 align="center">Hi 👋, I'm Priyanshu singh</h1>
-<h3 align="center">A passionate frontend and backend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Priyanshu Singh</h1>
+<h3 align="center">A passionate Full-Stack developer from India</h3>
 <img align="center" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshusingh25&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshusingh25" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshusingh25" alt="priyanshusingh25" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MEAN stack**
 
-- 💬 Ask me about **Android, MERN**
+- 💬 Ask me about **Angular, MEAN**
 
 - 📫 How to reach me **singhpriyanshu2508@gmail.com**
 
