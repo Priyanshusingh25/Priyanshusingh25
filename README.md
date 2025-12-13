@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/github/followers/priyanshusingh25?label=Followers&style=for-the-badge&color=6366f1&logo=github" alt="followers" />
 <img src="https://img.shields.io/github/stars/priyanshusingh25?label=Total%20Stars&style=for-the-badge&color=6366f1&logo=github" alt="stars" />
 
-<br>
+<br><br>
 
 <!-- Animated Hero GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
