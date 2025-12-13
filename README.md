@@ -17,21 +17,21 @@
 <img src="https://img.shields.io/badge/Lives-Chennai,%20India-success?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Languages-10+-ff6a00?style=for-the-badge" />
 
-<br><br>
+<br>
 
 <!-- Profile Stats Badges -->
 <img src="https://komarev.com/ghpvc/?username=priyanshusingh25&color=6366f1&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/priyanshusingh25?label=Followers&style=for-the-badge&color=6366f1&logo=github" alt="followers" />
 <img src="https://img.shields.io/github/stars/priyanshusingh25?label=Total%20Stars&style=for-the-badge&color=6366f1&logo=github" alt="stars" />
 
-<br><br>
+<br>
 
 <!-- Animated Hero GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
 </div>
 
-<br><br>
+<br>
 
 <!-- Stylish Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -44,9 +44,9 @@
 
 **👨‍💻 Full-Stack Developer** passionate about creating scalable web applications
 
-**📍 Location:** Chennai, Tamil Nadu, India 🇮🇳
+**📍 Location:** Pune, Maharashtra, India 🇮🇳
 
-**🎓 Education:** Computer Science Engineering
+**🎓 Education:** Bachelor of Engineering in Information Technology 
 
 **💼 Current Focus:** MEAN Stack Development & Cloud Architecture
 
@@ -64,7 +64,7 @@
 - 📫 **Reach Out:** [singhpriyanshu2508@gmail.com](mailto:singhpriyanshu2508@gmail.com)
 - ⚡ **Fun Fact:** I debug with console.log() and I'm not ashamed! 😄
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
