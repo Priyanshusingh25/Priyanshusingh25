@@ -1,278 +1,155 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=%3E%3E%20SYSTEM_ONLINE%20%3C%3C;%3E%3E%20PRIYANSHU_SINGH%20%3C%3C;%3E%3E%20FULL_STACK_DEV%20%3C%3C" alt="Typing SVG" />
-</h1>
-
 <div align="center">
   
-  ```ascii
-  ╔═══════════════════════════════════════════════════════════════════╗
-  ║                                                                   ║
-  ║   ██████╗ ██████╗ ██╗██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗ ║
-  ║   ██╔══██╗██╔══██╗██║╚██╗ ██╔╝██╔══██╗████╗  ██║██╔════╝██║  ██║ ║
-  ║   ██████╔╝██████╔╝██║ ╚████╔╝ ███████║██╔██╗ ██║███████╗███████║ ║
-  ║   ██╔═══╝ ██╔══██╗██║  ╚██╔╝  ██╔══██║██║╚██╗██║╚════██║██╔══██║ ║
-  ║   ██║     ██║  ██║██║   ██║   ██║  ██║██║ ╚████║███████║██║  ██║ ║
-  ║   ╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ║
-  ║                                                                   ║
-  ║              [ FULL-STACK ENGINEER | MEAN SPECIALIST ]            ║
-  ║                  [ LOCATION: CHENNAI, INDIA ]                     ║
-  ╚═══════════════════════════════════════════════════════════════════╝
-  ```
+  <!-- Animated Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Priyanshu%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
   
-</div>
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;MEAN+Stack+Enthusiast+%F0%9F%92%BB;Building+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" /></a>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</p>
+  <!-- Profile Views Counter with Style -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=priyanshusingh25&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/priyanshusingh25?label=Followers&style=for-the-badge&color=00d9ff" alt="followers" />
+  </p>
 
-<div align="center">
-
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-
-</div>
-
----
-
-<div align="center">
-
-## 🎮 SYSTEM SPECIFICATIONS
+  <!-- Animated GIF -->
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
 </div>
 
-<table align="center">
-<tr>
-<td width="50%">
+<br/>
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Priyanshu Singh"
-        self.role = "Full-Stack Developer"
-        self.location = "Chennai, Tamil Nadu 🇮🇳"
-        self.languages = {
-            "expert": ["JavaScript", "Python"],
-            "proficient": ["Java", "Kotlin"],
-            "learning": ["TypeScript", "Go"]
-        }
-        
-    def current_mission(self):
-        return {
-            "focus": "MEAN Stack Mastery",
-            "building": "Scalable Web Apps",
-            "exploring": "Cloud Architecture",
-            "status": "🟢 ONLINE"
-        }
-    
-    def fun_fact(self):
-        return "I turn bugs into features! 🐛➡️✨"
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
-dev = Developer()
+```javascript
+const priyanshu = {
+    location: "Chennai, Tamil Nadu, IN",
+    currentFocus: "MEAN Stack Development",
+    learning: ["Angular", "Node.js", "MongoDB", "Express.js"],
+    interests: ["Web Development", "AI/ML", "Cloud Computing"],
+    funFact: "I am seriously Funny 😄",
+    askMeAbout: ["Angular", "MEAN Stack", "Full-Stack Development"],
+    reachMe: "singhpriyanshu2508@gmail.com"
+};
 ```
 
-</td>
-<td width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-```yaml
-🎯 Mission Control:
-  status: ████████░░ 80%
-  
-📡 Active Systems:
-  ✅ Angular Framework
-  ✅ Node.js Runtime
-  ✅ MongoDB Database
-  ✅ Express Server
-  🔄 Advanced Authentication
-  🔄 Real-time WebSockets
-  
-🚀 Next Objectives:
-  → Master Microservices
-  → Deploy to Production
-  → Contribute to Open Source
-  → Build AI-Powered Apps
-  
-⚡ Power Level: OVER 9000!
-```
-
-</td>
-</tr>
-</table>
-
----
+## 🎯 Current Objectives
 
 <div align="center">
 
-## ⚔️ COMBAT ARSENAL // TECH STACK
+| 🎓 Learning | 💼 Working On | 🎮 Hobbies |
+|------------|--------------|-----------|
+| MEAN Stack | Full-Stack Projects | Coding Challenges |
+| Cloud Technologies | Open Source | Content Creation |
+| System Design | Portfolio Sites | Gaming |
 
 </div>
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### 『 FRONTEND WEAPONS 』
-
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-### 『 BACKEND FORTRESS 』
-
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-
-### 『 DATABASE REALM 』
-
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/CouchDB-E33332?style=for-the-badge&logo=apache-couchdb&logoColor=white" />
-
-### 『 CLOUD COMMAND CENTER 』
-
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-
-### 『 DEV TOOLS & MORE 』
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-
-</div>
-
----
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-## 📊 BATTLE STATISTICS // GITHUB ANALYTICS
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🚀 Frameworks & Libraries
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![CouchDB](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=priyanshusingh25&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&icon_color=00ff41&text_color=00ff41&ring_color=00ff41" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh25&theme=chartreuse-dark&hide_border=true&background=0a0a0a&stroke=00ff41&ring=00ff41&fire=ff6b00&currStreakLabel=00ff41&sideLabels=00ff41" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh25&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=00ff41&langs_count=12" />
-</p>
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshusingh25&bg_color=0a0a0a&color=00ff41&line=00ff41&point=ff6b00&area=true&hide_border=true&custom_title=CONTRIBUTION%20MATRIX" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanshusingh25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh25&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak"/>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshusingh25&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=8&rank=-C,-?" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshusingh25&bg_color=0D1117&color=00d9ff&line=00d9ff&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshusingh25&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 🤝 Connect With Me
 
 <div align="center">
 
-## 🌐 NETWORK CONNECTIONS // SOCIAL LINKS
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-singh-a31645205/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/priyanshusingh)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/priyanshu_singh_kachhwaha)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/mr.%20densetsu)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/priyanshu_258)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/singhpriyanhsu25)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhpriyanshu2508@gmail.com)
 
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/priyanshu-singh-a31645205/">
-    <img src="https://img.shields.io/badge/LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0a0a0a" />
-  </a>
-  <a href="mailto:singhpriyanshu2508@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00ff41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0a0a0a" />
-  </a>
-  <a href="https://kaggle.com/priyanshusingh">
-    <img src="https://img.shields.io/badge/Kaggle-00ff41?style=for-the-badge&logo=kaggle&logoColor=black&labelColor=0a0a0a" />
-  </a>
-  <a href="https://www.youtube.com/c/mr.densetsu">
-    <img src="https://img.shields.io/badge/YouTube-00ff41?style=for-the-badge&logo=youtube&logoColor=black&labelColor=0a0a0a" />
-  </a>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<p align="center">
-  <a href="https://instagram.com/priyanshu_singh_kachhwaha">
-    <img src="https://img.shields.io/badge/Instagram-00ff41?style=for-the-badge&logo=instagram&logoColor=black&labelColor=0a0a0a" />
-  </a>
-  <a href="https://www.codechef.com/users/priyanshu_258">
-    <img src="https://img.shields.io/badge/CodeChef-00ff41?style=for-the-badge&logo=codechef&logoColor=black&labelColor=0a0a0a" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/singhpriyanhsu25">
-    <img src="https://img.shields.io/badge/GeeksForGeeks-00ff41?style=for-the-badge&logo=geeksforgeeks&logoColor=black&labelColor=0a0a0a" />
-  </a>
-</p>
-
----
+## 💡 Random Dev Quote
 
 <div align="center">
 
-## 💻 TERMINAL OUTPUT // LATEST ACTIVITY
-
-```terminal
-┌──(priyanshu@github)-[~/projects]
-└─$ cat current_status.log
-
-[✓] MEAN Stack Development: ACTIVE
-[✓] Learning New Technologies: IN PROGRESS
-[✓] Building Cool Projects: ONGOING
-[✓] Debugging: PERPETUAL
-[✓] Coffee Consumption: MAXIMUM
-[⚡] Fun Level: SERIOUSLY HIGH
-
-┌──(priyanshu@github)-[~/projects]
-└─$ echo "Ready to collaborate on exciting projects!"
-Ready to collaborate on exciting projects!
-
-┌──(priyanshu@github)-[~/projects]
-└─$ ./deploy_skills.sh
-Deploying: [████████████████████] 100% Complete
-Status: 🟢 ALL SYSTEMS OPERATIONAL
-```
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-<div align="center">
-
-### ⚡ SYSTEM MESSAGE
-
-```diff
-@@ DEVELOPER STATUS @@
-+ Building the future, one commit at a time
-+ Open to collaboration and new opportunities
-! Warning: May cause excessive code quality
-- Bugs: Eliminated on sight
-# Currently brewing: Next big project ☕
-
->> REMEMBER: "First, solve the problem. Then, write the code."
->> END TRANSMISSION <<
-```
-
-</div>
+## 🐍 Contribution Snake
 
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=priyanshusingh25&label=VISITORS+TRACKED&color=00ff41&style=for-the-badge&labelColor=0a0a0a)
-  
+![Snake animation](https://raw.githubusercontent.com/priyanshusingh25/priyanshusingh25/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <div align="center">
   
-  ```ascii
-  ╔═══════════════════════════════════════════════════════════════╗
-  ║  >> TRANSMISSION COMPLETE << STAY CONNECTED << KEEP CODING << ║
-  ╚═══════════════════════════════════════════════════════════════╝
-  ```
-  
-  ### 🌟 **LIKE WHAT YOU SEE? DROP A ⭐ ON MY REPOS!** 🌟
-  
+### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+### Show some ❤️ by starring some of my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
 </div>
