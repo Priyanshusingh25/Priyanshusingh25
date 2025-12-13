@@ -74,9 +74,7 @@
 
 <div align="center">
 
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=priyanshusingh25&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophy" />
-</p>
 
 </div>
 
