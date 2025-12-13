@@ -3,120 +3,118 @@
 <!-- Dynamic Header with Wave Animation -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Priyanshu%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20MEAN%20Stack%20Expert&descAlignY=55&descAlign=50"/>
 
+<br>
+
 <!-- Animated Typing Effect -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Welcome+to+my+Digital+Space+%F0%9F%91%8B;Crafting+Scalable+Web+Solutions+%F0%9F%9A%80;Turning+Coffee+into+Code+%E2%98%95;Let's+Build+Something+Amazing!+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
+<br><br>
+
 <!-- Badges Row -->
-<p>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-6366f1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Lives-Chennai,%20India-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Languages-10+-ff6a00?style=for-the-badge" />
-</p>
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-6366f1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Lives-Chennai,%20India-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Languages-10+-ff6a00?style=for-the-badge" />
+
+<br><br>
 
 <!-- Profile Stats Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=priyanshusingh25&color=6366f1&style=for-the-badge&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/priyanshusingh25?label=Followers&style=for-the-badge&color=6366f1&logo=github" alt="followers" />
-  <img src="https://img.shields.io/github/stars/priyanshusingh25?label=Total%20Stars&style=for-the-badge&color=6366f1&logo=github" alt="stars" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=priyanshusingh25&color=6366f1&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/priyanshusingh25?label=Followers&style=for-the-badge&color=6366f1&logo=github" alt="followers" />
+<img src="https://img.shields.io/github/stars/priyanshusingh25?label=Total%20Stars&style=for-the-badge&color=6366f1&logo=github" alt="stars" />
+
+<br><br>
 
 <!-- Animated Hero GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
 </div>
 
+<br><br>
+
 <!-- Stylish Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Coding gif">
 
-```typescript
-const priyanshu = {
-  pronouns: "He" | "Him",
-  location: "Chennai, Tamil Nadu 🇮🇳",
-  role: "Full-Stack Developer",
-  education: "Computer Science Engineering 🎓",
-  
-  code: {
-    frontend: ["Angular", "React", "TypeScript", "HTML5", "CSS3"],
-    backend: ["Node.js", "Express", "Python", "Flask", "Java"],
-    databases: ["MongoDB", "MySQL", "CouchDB"],
-    cloud: ["AWS", "Google Cloud", "Heroku"],
-    tools: ["Git", "Docker", "Linux", "Bash"]
-  },
-  
-  currentlyLearning: [
-    "Advanced Angular Patterns",
-    "Microservices Architecture",
-    "System Design",
-    "Cloud Native Development"
-  ],
-  
-  interests: ["Web Dev", "AI/ML", "Cloud", "Open Source"],
-  
-  lifePhilosophy: "Code is poetry, and every bug is a plot twist! 📖✨",
-  
-  funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
+**👨‍💻 Full-Stack Developer** passionate about creating scalable web applications
 
-<br clear="right"/>
+**📍 Location:** Chennai, Tamil Nadu, India 🇮🇳
+
+**🎓 Education:** Computer Science Engineering
+
+**💼 Current Focus:** MEAN Stack Development & Cloud Architecture
+
+**🌱 Learning:** Microservices Architecture, System Design, DevOps Practices
+
+**🎯 Interests:** Web Development, AI/ML, Cloud Computing, Open Source
+
+<br>
 
 ### 🎯 Quick Highlights
 
 - 🔭 **Currently Building:** Full-Stack MEAN Applications & Cloud-Native Solutions
-- 🌱 **Learning Journey:** Deep diving into Microservices, System Design & DevOps
 - 👯 **Collaboration:** Open to exciting Open Source projects and innovative ideas
 - 💬 **Expertise:** Angular, Node.js, MongoDB, Express.js, React, Python
 - 📫 **Reach Out:** [singhpriyanshu2508@gmail.com](mailto:singhpriyanshu2508@gmail.com)
-- ⚡ **Fun Fact:** I speak fluent JavaScript and broken English! 😂
+- ⚡ **Fun Fact:** I debug with console.log() and I'm not ashamed! 😄
+
+<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 ## 🏆 GitHub Trophies & Achievements
 
 <div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=priyanshusingh25&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=7&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,MultiLanguage" alt="GitHub Trophies" />
+
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=priyanshusingh25&theme=algolia&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7&row=2" alt="GitHub Trophies" />
 
 </div>
 
+<br><br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 ## 📊 GitHub Statistics & Analytics
 
 <div align="center">
-  
-<!-- GitHub Stats Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshusingh25&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 
-<!-- Top Languages Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh25&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanshusingh25&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh25&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
 
 </div>
 
-<div align="center">
-  
-<!-- GitHub Streak Stats -->
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh25&theme=react&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak"/>
+<br>
 
-<!-- Contribution Graph -->
+<div align="center">
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh25&theme=react&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak"/>
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshusingh25&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366f1&line=6366f1&point=ffffff&area=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
 
 </div>
 
-<!-- Detailed Stats -->
+<br>
+
 <div align="center">
-  
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshusingh25&theme=github_dark" width="80%" alt="Profile Summary"/>
 
 </div>
 
+<br><br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 ## 🛠️ Technology Arsenal & Skillset
 
@@ -294,29 +292,16 @@ const priyanshu = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌟 Featured Projects & Work
-
-<div align="center">
-
-<a href="https://github.com/priyanshusingh25">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusingh25&repo=your-project-name&theme=react&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1" />
-</a>
-
-<a href="https://github.com/priyanshusingh25">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusingh25&repo=another-project&theme=react&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1" />
-</a>
-
-</div>
+<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 ## 📈 Contribution Calendar & Activity
 
 <div align="center">
 
-<!-- Contribution Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyanshusingh25/priyanshusingh25/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyanshusingh25/priyanshusingh25/output/github-contribution-grid-snake.svg">
@@ -325,16 +310,13 @@ const priyanshu = {
 
 </div>
 
-<!-- 3D Contribution Calendar -->
-<div align="center">
-  
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-</div>
+<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💬 Coding Activity & Stats
+<br>
+
+## 💬 Coding Activity Stats
 
 <div align="center">
 
@@ -342,12 +324,18 @@ const priyanshu = {
 
 </div>
 
+<br>
+
 ### 📅 Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+<br><br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 ## 🌐 Connect & Collaborate
 
@@ -355,52 +343,63 @@ const priyanshu = {
 
 ### Let's Build Something Amazing Together! 🚀
 
+<br>
+
 <a href="https://www.linkedin.com/in/priyanshu-singh-a31645205/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:singhpriyanshu2508@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://twitter.com/yourhandle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
 <a href="https://instagram.com/priyanshu_singh_kachhwaha">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
+<a href="https://www.youtube.com/c/mr.%20densetsu">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+
+<br><br>
 
 ### 💻 Coding Platforms
+
+<br>
 
 <a href="https://www.codechef.com/users/priyanshu_258">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
 </a>
-<a href="https://leetcode.com/yourhandle">
+<a href="https://leetcode.com/priyanshusingh25">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
-<a href="https://www.hackerrank.com/yourhandle">
+<a href="https://www.hackerrank.com/priyanshusingh25">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/singhpriyanhsu25">
   <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
 </a>
 
+<br><br>
+
 ### 🎓 Learning & Research
+
+<br>
 
 <a href="https://kaggle.com/priyanshusingh">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
 </a>
-<a href="https://www.youtube.com/c/mr.%20densetsu">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-<a href="https://dev.to/yourhandle">
+<a href="https://dev.to/priyanshusingh25">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
 </a>
-<a href="https://medium.com/@yourhandle">
+<a href="https://medium.com/@priyanshusingh25">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a>
 
 </div>
 
+<br><br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 ## 📝 Latest Blog Posts & Articles
 
@@ -409,13 +408,17 @@ const priyanshu = {
 
 <div align="center">
 
-<a href="https://dev.to/yourhandle">
+<a href="https://dev.to/priyanshusingh25">
   <img src="https://img.shields.io/badge/Read%20More%20Articles-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Read More" />
 </a>
 
 </div>
 
+<br><br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 ## 💡 Developer Quote of the Day
 
@@ -425,7 +428,11 @@ const priyanshu = {
 
 </div>
 
+<br><br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 ## 🎯 2024 Goals & Achievements
 
@@ -441,67 +448,11 @@ const priyanshu = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎮 Hobbies & Interests
-
-<div align="center">
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "interest": "Competitive Programming",
-        "level": "Intermediate",
-        "platforms": ["CodeChef", "LeetCode", "HackerRank"]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "interest": "Open Source Contribution",
-        "level": "Active",
-        "focus": ["Web Development", "Tools", "Documentation"]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "interest": "Content Creation",
-        "platforms": ["YouTube", "Medium", "Dev.to"],
-        "topics": ["Web Dev Tutorials", "Tech Reviews"]
-      }
-    }
-  ]
-}
-```
-
-</div>
+<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💰 Support My Work
-
-<div align="center">
-
-If you find my work helpful or interesting, consider supporting me! ☕
-
-<a href="https://www.buymeacoffee.com/priyanshusingh">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-</a>
-<a href="https://ko-fi.com/yourhandle">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-</a>
-<a href="https://www.patreon.com/yourhandle">
-  <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 ## 📊 Repository Overview
 
@@ -514,7 +465,11 @@ If you find my work helpful or interesting, consider supporting me! ☕
 
 </div>
 
+<br><br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 ## 🎭 Fun Zone
 
@@ -522,19 +477,49 @@ If you find my work helpful or interesting, consider supporting me! ☕
 
 ### 😄 Programmer Jokes
 
+<br>
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
-
-### 🎲 Random Dev Meme
-
-<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Meme" />
 
 </div>
 
+<br><br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 💰 Support My Work
+
+<div align="center">
+
+If you find my work helpful or interesting, consider supporting me! ☕
+
+<br><br>
+
+<a href="https://www.buymeacoffee.com/priyanshusingh">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+</a>
+<a href="https://ko-fi.com/priyanshusingh">
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+</a>
+<a href="https://www.patreon.com/priyanshusingh">
+  <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
+</a>
+
+</div>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 <div align="center">
 
 ### 🌟 Show Some Love!
+
+<br>
 
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
@@ -546,23 +531,25 @@ If you find my work helpful or interesting, consider supporting me! ☕
 
 ⭐ Starring my repositories | 👥 Following me on GitHub | 🤝 Contributing to my projects
 
-<br>
+<br><br>
 
 ### 💭 Final Thoughts
 
 *"The only way to do great work is to love what you do."* - Steve Jobs
 
-<br>
+<br><br>
 
 **Let's connect and build something extraordinary together!** 🚀
 
-<br>
+<br><br>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70"/>
 
+<br>
+
 ---
 
-<sub>⚡ **Proudly crafted by [Priyanshu Singh](https://github.com/priyanshusingh25)** | Last updated: 2024</sub>
+<sub>⚡ **Proudly crafted by [Priyanshu Singh](https://github.com/priyanshusingh25)** | Last updated: December 2024</sub>
 
 </div>
