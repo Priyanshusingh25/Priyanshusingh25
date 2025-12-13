@@ -1,155 +1,237 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Priyanshu;Full-Stack+Developer;MEAN+Stack+Expert;Problem+Solver" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</p>
+
 <div align="center">
   
-  <!-- Animated Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Priyanshu%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-  
-  <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;MEAN+Stack+Enthusiast+%F0%9F%92%BB;Building+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" /></a>
-
-  <!-- Profile Views Counter with Style -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=priyanshusingh25&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/priyanshusingh25?label=Followers&style=for-the-badge&color=00d9ff" alt="followers" />
-  </p>
-
-  <!-- Animated GIF -->
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+[![Profile Views](https://komarev.com/ghpvc/?username=priyanshusingh25&color=6366f1&style=flat-square&label=PROFILE+VIEWS)](https://github.com/priyanshusingh25)
+[![GitHub followers](https://img.shields.io/github/followers/priyanshusingh25?label=Followers&style=flat-square&color=6366f1)](https://github.com/priyanshusingh25?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/priyanshusingh25?label=Stars&style=flat-square&color=6366f1)](https://github.com/priyanshusingh25)
 
 </div>
 
-<br/>
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
+### 👨‍💻 About Me
 
-```javascript
-const priyanshu = {
-    location: "Chennai, Tamil Nadu, IN",
-    currentFocus: "MEAN Stack Development",
-    learning: ["Angular", "Node.js", "MongoDB", "Express.js"],
-    interests: ["Web Development", "AI/ML", "Cloud Computing"],
-    funFact: "I am seriously Funny 😄",
-    askMeAbout: ["Angular", "MEAN Stack", "Full-Stack Development"],
-    reachMe: "singhpriyanshu2508@gmail.com"
-};
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+```yaml
+name: Priyanshu Singh
+located_in: Chennai, Tamil Nadu, India
+current_role: Full-Stack Developer
+education: 
+  - "Computer Science Engineering"
+  
+fields_of_interests:
+  - "Web Development"
+  - "Machine Learning"
+  - "Cloud Computing"
+  - "System Design"
+  
+currently_learning: 
+  - "MEAN Stack"
+  - "Microservices Architecture"
+  - "DevOps Practices"
+  
+hobbies: 
+  - "Competitive Programming"
+  - "Open Source"
+  - "Content Creation"
+  - "Gaming"
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<br clear="right"/>
 
-## 🎯 Current Objectives
+- 🔭 Currently working on **Full-Stack MEAN Applications**
+- 🌱 Learning **Advanced Angular Patterns & Cloud Architecture**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Angular, Node.js, MongoDB, Express**
+- 📫 Reach me: **singhpriyanshu2508@gmail.com**
+- ⚡ Fun fact: **I debug with console.log() and I'm proud of it! 😄**
 
-<div align="center">
+---
 
-| 🎓 Learning | 💼 Working On | 🎮 Hobbies |
-|------------|--------------|-----------|
-| MEAN Stack | Full-Stack Projects | Coding Challenges |
-| Cloud Technologies | Open Source | Content Creation |
-| System Design | Portfolio Sites | Gaming |
+### 🏆 GitHub Achievements
 
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshusingh25&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophy" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+---
 
-## 🛠️ Tech Arsenal
+### 📈 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshusingh25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh25&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+</p>
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh25&theme=algolia&hide_border=true" alt="Streak Stats"/>
+</p>
 
-### 🚀 Frameworks & Libraries
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshusingh25&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![CouchDB](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white)
+---
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🛠️ Technology Stack
 
-### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
 
-</div>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</details>
 
-## 📊 GitHub Analytics
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanshusingh25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh25&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak"/>
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshusingh25&bg_color=0D1117&color=00d9ff&line=00d9ff&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
+</details>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshusingh25&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
+<details open>
+<summary><b>💾 Database Management</b></summary>
+<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![CouchDB](https://img.shields.io/badge/CouchDB-EA2328?style=flat-square&logo=apache-couchdb&logoColor=white)
 
-## 🤝 Connect With Me
+</details>
 
-<div align="center">
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-singh-a31645205/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/priyanshusingh)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/priyanshu_singh_kachhwaha)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/mr.%20densetsu)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/priyanshu_258)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/singhpriyanhsu25)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhpriyanshu2508@gmail.com)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-</div>
+</details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<details open>
+<summary><b>🤖 Data Science & ML</b></summary>
+<br>
 
-## 💡 Random Dev Quote
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=black)
 
-<div align="center">
+</details>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<details open>
+<summary><b>🎨 Design & Tools</b></summary>
+<br>
 
-</div>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</details>
 
-## 🐍 Contribution Snake
+<details open>
+<summary><b>📱 Mobile Development</b></summary>
+<br>
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+
+</details>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyanshu-singh-a31645205/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:singhpriyanshu2508@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://kaggle.com/priyanshusingh"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://www.codechef.com/users/priyanshu_258"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/singhpriyanhsu25"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+  <a href="https://instagram.com/priyanshu_singh_kachhwaha"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.youtube.com/c/mr.%20densetsu"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+</p>
+
+---
+
+### 📊 Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=priyanshusingh25&theme=algolia&hide_border=true" alt="WakaTime Stats"/>
+</p>
+
+---
+
+### 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 💡 Quote of The Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Dev Quote"/>
+</p>
+
+---
+
+### 🐍 Watch My Contribution Graph Get Eaten By A Snake!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/priyanshusingh25/priyanshusingh25/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 💰 Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/priyanshusingh"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=75&animation=twinkling&fontColor=ffffff"/>
+</p>
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/priyanshusingh25/priyanshusingh25/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<div align="center">
-  
-### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-### Show some ❤️ by starring some of my repositories!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+### ⭐️ From [Priyanshu Singh](https://github.com/priyanshusingh25) | Show some ❤️ by starring my repositories!
 
 </div>
