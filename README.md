@@ -14,7 +14,7 @@
 
 <!-- Badges Row -->
 <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-6366f1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Lives-Chennai,%20India-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Lives-Pune,%20India-success?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Languages-10+-ff6a00?style=for-the-badge" />
 
 <br>
