@@ -74,7 +74,9 @@
 
 <div align="center">
 
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=priyanshusingh25&theme=algolia&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=7&row=2" alt="GitHub Trophies" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshusingh25&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophy" />
+</p>
 
 </div>
 
