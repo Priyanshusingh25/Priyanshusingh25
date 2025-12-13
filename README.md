@@ -358,7 +358,7 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
 
-<br><br>
+<br>
 
 ### 💻 Coding Platforms
 
@@ -377,7 +377,7 @@
   <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
 </a>
 
-<br><br>
+<br>
 
 ### 🎓 Learning & Research
 
@@ -414,21 +414,7 @@
 
 </div>
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <br>
-
-## 💡 Developer Quote of the Day
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -471,13 +457,9 @@
 
 <br>
 
-## 🎭 Fun Zone
+## 🎭 Fun Zone (Refresh For a New one every time)
 
 <div align="center">
-
-### 😄 Programmer Jokes
-
-<br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
 
@@ -525,7 +507,7 @@ If you find my work helpful or interesting, consider supporting me! ☕
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg" />
 
-<br>
+<br><br>
 
 **If you like my work, please consider:**
 
