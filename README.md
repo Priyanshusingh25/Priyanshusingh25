@@ -465,7 +465,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -483,7 +483,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -495,7 +495,7 @@
 
 If you find my work helpful or interesting, consider supporting me! ☕
 
-<br><br>
+<br>
 
 <a href="https://www.buymeacoffee.com/priyanshusingh">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
@@ -509,7 +509,7 @@ If you find my work helpful or interesting, consider supporting me! ☕
 
 </div>
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -525,23 +525,23 @@ If you find my work helpful or interesting, consider supporting me! ☕
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg" />
 
-<br><br>
+<br>
 
 **If you like my work, please consider:**
 
 ⭐ Starring my repositories | 👥 Following me on GitHub | 🤝 Contributing to my projects
 
-<br><br>
+<br>
 
 ### 💭 Final Thoughts
 
 *"The only way to do great work is to love what you do."* - Steve Jobs
 
-<br><br>
+<br>
 
 **Let's connect and build something extraordinary together!** 🚀
 
-<br><br>
+<br>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70"/>
