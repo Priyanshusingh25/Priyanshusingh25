@@ -1,115 +1,94 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Priyanshu%20Singh&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Java%20%C2%B7%20Angular%20%C2%B7%20PostgreSQL&descAlignY=55&descAlign=50"/>
+<!-- Minimal & Professional Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=Priyanshu%20Singh&fontSize=50&fontColor=6366F1&fontAlignY=50&desc=Full-Stack%20Software%20Engineer&descAlignY=75&descAlign=50"/>
 
-<a href="https://www.linkedin.com/in/priyanshu-singh-a31645205/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:singhpriyanshu2508@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/priyanshusingh25"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
-<a href="https://dev.to/priyanshusingh25"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=priyanshusingh25&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile views" />
+<br>
+
+<!-- Clean Typing SVG -->
+<a href="https://github.com/priyanshusingh25">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Building+Scalable+Web+Applications;Java+%7C+Angular+%7C+PostgreSQL;Turning+Complex+Problems+Into+Elegant+Code" alt="Typing SVG" />
+</a>
+
+<br>
+
+<!-- Professional Badges -->
+<a href="https://www.linkedin.com/in/priyanshu-singh-a31645205/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:singhpriyanshu2508@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Location-Pune,_India-success?style=for-the-badge&logo=google-maps&logoColor=white" />
 
 </div>
 
 <br>
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** based in Pune, India, specializing in building scalable, production-grade web applications with **Java, Angular, and PostgreSQL**, alongside the MEAN stack and cloud-native tooling.
+I am a **Full-Stack Developer** focused on engineering high-performance, responsive web applications. With a foundation in Information Technology and hands-on experience in the tech industry, I specialize in building robust architectures using **Java, Angular, and PostgreSQL**. 
 
-- 🎓 Bachelor of Engineering — Information Technology
-- 💼 Core stack: **Java (Spring Boot)** · **Angular** · **PostgreSQL** · Node.js · MongoDB
-- 🔭 Currently building enterprise-grade full-stack applications & cloud-native services
-- 🌱 Deepening expertise in Microservices, System Design, and DevOps
-- 🤝 Open to collaborating on impactful open-source projects
-- 📫 Reach me at **singhpriyanshu2508@gmail.com**
+- 🚀 **Currently Focusing On:** Advanced System Design, Cloud-Native Solutions, and Microservices.
+- 🏗️ **What I Build:** Everything from complex IoT dashboards like *Hope In Motion* to complete service ecosystems like *Furr-Crew*.
+- 💼 **Experience:** Previously crafted pixel-perfect, scalable UIs as a Frontend Developer. 
+- 🎯 **Philosophy:** I believe in writing clean, maintainable code and building products that offer exceptional user experiences.
 
 <br>
 
-## Tech Stack
-
-**Core / Primary**
-
-<img src="https://skillicons.dev/icons?i=java" height="42"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=spring" height="42"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=angular" height="42"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=postgresql" height="42"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=typescript" height="42"/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react" height="38"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=javascript" height="38"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=html" height="38"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=css" height="38"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=tailwind" height="38"/>
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs" height="38"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=express" height="38"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=python" height="38"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=flask" height="38"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=kotlin" height="38"/>
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=postgresql" height="38"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" height="38"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" height="38"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=redis" height="38"/>
-
-**Cloud, DevOps & Tools**
-
-<img src="https://skillicons.dev/icons?i=aws" height="38"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=gcp" height="38"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=docker" height="38"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=kubernetes" height="38"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=git" height="38"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="38"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=linux" height="38"/>
-
-<br>
-
-## GitHub Stats
+## 🛠️ Core Technology Stack
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanshusingh25&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh25&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+### 💎 The Main Arsenal
+<a href="https://angular.io"><img src="https://skillicons.dev/icons?i=angular" width="50" height="50" alt="Angular" /></a>
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java" /></a>
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="50" height="50" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" /></a>
 
-<img width="66%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh25&theme=react&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak"/>
+<br>
+
+### 🔧 Extended Skills & Tools
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,python,docker,git,linux,aws,gcp,figma" /></a>
 
 </div>
 
 <br>
 
-## Featured Projects
+## 🚀 Featured Projects & Builds
 
-> Replace these with your strongest 3–4 repositories — pinning your best work here is far more convincing to recruiters than automated stat cards.
+| Project | Description | Tech Highlight |
+|---------|-------------|----------------|
+| **Furr-Crew Platform** | Designed and developed a comprehensive service ecosystem connecting pet owners with essential services. | `Full-Stack Architecture`, `UI/UX Integration` |
+| **Hope In Motion** | An IoT-based home care continuous patient monitoring system. Built the functional frontend prototype during a 24-hour Build & Grow Hackathon. | `Rapid Prototyping`, `Data Visualization` |
+
+<br>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusingh25&repo=REPO_NAME_1&theme=react&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusingh25&repo=REPO_NAME_2&theme=react&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" width="48%" />
+<!-- Consolidated and clean stats using a unified dark theme (tokyonight) -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshusingh25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh25&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
+
+<br><br>
+
+<!-- Activity Graph -->
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshusingh25&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 
 </div>
 
 <br>
 
-## Connect
+## 🌐 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/priyanshu-singh-a31645205/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:singhpriyanshu2508@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/priyanshusingh25"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://www.hackerrank.com/priyanshusingh25"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-<a href="https://auth.geeksforgeeks.org/user/singhpriyanhsu25"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+**Whether it's a project collaboration, a tech discussion, or a new opportunity—my inbox is always open.**
 
-</div>
+<a href="https://leetcode.com/priyanshusingh25"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://auth.geeksforgeeks.org/user/singhpriyanhsu25"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+<a href="https://github.com/priyanshusingh25"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<br>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<br><br>
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" height="25" /> 
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" height="25" />
 </div>
