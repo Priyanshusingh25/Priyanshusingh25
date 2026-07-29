@@ -90,8 +90,8 @@ I'm a **Full-Stack Developer** based in Pune, India, specializing in building sc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusingh25&repo=Hospital-management-system&theme=react&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusingh25&repo=Priyanshusingh25.github.io&theme=react&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusingh25&repo=leave-management-system&theme=react&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshusingh25&repo=Hope-In-Motion&theme=react&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" width="48%" />
 
 </div>
 
