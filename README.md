@@ -58,6 +58,48 @@
 
 <sub>📊 Stats include private contributions & all commits · 🔥 Active collaborator (Pull Shark · YOLO) · 🐍 Contribution snake + 💼 Projects panel auto-refresh every 6h</sub>
 
+<!-- ===== ALL-TIME STATS (PRIVATE + PUBLIC) ===== -->
+<!-- Generated daily by .github/workflows/summary-cards.yml using SUMMARY_GITHUB_TOKEN, -->
+<!-- so these totals cover ALL repos (private + public) across ALL time — unlike the -->
+<!-- hosted widgets above, which are public-only unless their Vercel deploy has a PAT. -->
+
+<div align="center">
+
+<sub>⏳ All-time totals incl. private repos — auto-generated daily from all my repositories</sub>
+<br/><br/>
+
+<!-- Profile details (all-time contribution chart) — full width -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priyanshusingh25/Priyanshusingh25/summary-cards/profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/Priyanshusingh25/Priyanshusingh25/summary-cards/profile-summary-card-output/github/0-profile-details.svg" alt="All-time contributions (private + public)" />
+</picture>
+
+<br/>
+
+<!-- Stats + productive time — side by side -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priyanshusingh25/Priyanshusingh25/summary-cards/profile-summary-card-output/github_dark/3-stats.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/Priyanshusingh25/Priyanshusingh25/summary-cards/profile-summary-card-output/github/3-stats.svg" alt="GitHub stats (private + public)" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priyanshusingh25/Priyanshusingh25/summary-cards/profile-summary-card-output/github_dark/4-productive-time.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/Priyanshusingh25/Priyanshusingh25/summary-cards/profile-summary-card-output/github/4-productive-time.svg" alt="Productive time (private + public)" />
+</picture>
+
+<br/>
+
+<!-- Languages per repo + most committed language — side by side -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priyanshusingh25/Priyanshusingh25/summary-cards/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/Priyanshusingh25/Priyanshusingh25/summary-cards/profile-summary-card-output/github/1-repos-per-language.svg" alt="Repos per language (private + public)" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priyanshusingh25/Priyanshusingh25/summary-cards/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/Priyanshusingh25/Priyanshusingh25/summary-cards/profile-summary-card-output/github/2-most-commit-language.svg" alt="Most commit language (private + public)" />
+</picture>
+
+</div>
+
 <!-- ===== CONTRIBUTION SNAKE ===== -->
 
 <div align="center">

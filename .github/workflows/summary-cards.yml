@@ -1,0 +1,32 @@
+name: GitHub Profile Summary Cards
+
+# Generates private+public, all-time stats cards using your own token,
+# so totals (commits, PRs, issues, languages, contribution chart) include
+# private repos — unlike the public-only hosted widgets in the README.
+# Requires repo secret SUMMARY_GITHUB_TOKEN (PAT with private-repo read scope).
+# Cards are pushed to the `summary-cards` branch (kept separate from the
+# `output` snake branch and `projects` branch so scheduled jobs never wipe
+# each other's files).
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily — card queries span all repos, so keep it gentle
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: Priyanshusingh25
+          BRANCH_NAME: "summary-cards"
+          UTC_OFFSET: 5
+          EXCLUDE: ""
+          AUTO_PUSH: true
