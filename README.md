@@ -6,31 +6,25 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priyanshusingh25/Priyanshusingh25/main/light.svg">
   <img alt="Priyanshu Singh" src="https://raw.githubusercontent.com/Priyanshusingh25/Priyanshusingh25/main/light.svg">
 </picture>
+<br/>
 
 <!-- ===== OPEN TO WORK / SERVICES ===== -->
 <div align="center">
 
-### 💼 What I do — Open to Freelance, Contract & Full-time
-
-**Ex-IBM & Salesforce Intern | Full-stack Developer for Startups & Businesses**
+### Open to Freelance, Contract & Full-time
 
 | Service | Stack |
 |---|---|
-| 🌐 Full-stack web app development | Angular / React + Spring Boot / Node.js, MySQL / MongoDB, Docker |
-| 🔌 REST API design with Spring Boot | JWT auth, Spring Security, JPA, PostgreSQL/MySQL |
-| 📊 Angular frontend builds & dashboards | ATS panels, Kanban, scorecards, responsive UIs (e.g. enterprise-ats, Leaveflow) |
-| ⚡ Real-time & AI apps | Next.js / TypeScript, real-time collab, AI directories (e.g. SyncScript, everyAI, RivalLens) |
+| Full-stack web app development | Angular / React + Spring Boot / Node.js, MySQL / MongoDB, Docker |
+| REST API design with Spring Boot | JWT auth, Spring Security, JPA, PostgreSQL/MySQL |
+| Angular frontend builds & dashboards | ATS panels, Kanban, scorecards, responsive UIs (e.g. enterprise-ats, Leaveflow) |
+| Real-time & AI apps | Next.js / TypeScript, real-time collab, AI directories (e.g. SyncScript, everyAI, RivalLens) |
 
-**📍 Pune, India · Remote-friendly · ✅ Available now — replies within 24h**
-
-**📩 Let's work together:**
-<a href="mailto:singhpriyanshu2508@gmail.com">Email me</a> ·
-<a href="https://www.linkedin.com/in/priyanshu-singh-0x12/">LinkedIn DM</a> ·
-<a href="https://priyanshu-b4g.pages.dev/">Portfolio</a>
-<br/>
-<sub>Recruiters / founders: send a role or project brief + timeline — I'll reply with plan + estimate.</sub>
+**Remote-friendly ·  Available now — replies within 24h**
 
 </div>
+
+<br/>
 
 <!-- ===== GITHUB STATS ===== -->
 
@@ -56,7 +50,6 @@
 
 </div>
 
-<sub>📊 Stats include private contributions & all commits · 🔥 Active collaborator (Pull Shark · YOLO) · 🐍 Contribution snake + 💼 Projects panel auto-refresh every 6h</sub>
 
 <!-- ===== ALL-TIME STATS (PRIVATE + PUBLIC) ===== -->
 <!-- Generated daily by .github/workflows/summary-cards.yml using SUMMARY_GITHUB_TOKEN, -->
@@ -121,6 +114,16 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priyanshusingh25/Priyanshusingh25/projects/projects-light.svg" />
   <img width="100%" src="https://raw.githubusercontent.com/Priyanshusingh25/Priyanshusingh25/projects/projects-light.svg" alt="Projects" />
 </picture>
+</div>
+<br/>
+<div align="center">
+
+ **📩 Let's work together:**
+ ·
+<a href="https://priyanshu-b4g.pages.dev/">Portfolio</a>
+<br/>
+<sub>Recruiters / founders: send a role or project brief + timeline — I'll reply with plan + estimate.</sub>
+
 </div>
 
 <!-- ===== SOCIAL BADGES ===== -->
