@@ -23,6 +23,8 @@ THEMES = {
         "STROKE_LO": "rgba(34,211,238,0.22)", "BARLINE": "rgba(255,255,255,0.08)",
         "RING_BG": "rgba(148,163,184,0.15)", "PILL_BG": "rgba(124,58,237,0.28)",
         "PILL_STROKE": "rgba(167,139,250,0.5)", "MONO_TX": "#EDE9FE",
+        "AUR": ["#7C3AED", "#22D3EE", "#10B981", "#E879F9"],
+        "GRAIN_RGB": "1", "GRAIN_OP": "0.13", "GRAIN_VALS": "0.11;0.16;0.09;0.15;0.11",
     },
     "light": {
         "BG": "#F8FAFC", "PANEL": "#FFFFFF", "PANEL_BAR": "#F1F5F9",
@@ -33,12 +35,16 @@ THEMES = {
         "STROKE_LO": "rgba(8,145,178,0.20)", "BARLINE": "rgba(0,0,0,0.08)",
         "RING_BG": "rgba(100,116,139,0.20)", "PILL_BG": "rgba(124,58,237,0.12)",
         "PILL_STROKE": "rgba(124,58,237,0.4)", "MONO_TX": "#FFFFFF",
+        "AUR": ["#7C3AED", "#0891B2", "#10B981", "#DB2777"],
+        "GRAIN_RGB": "0", "GRAIN_OP": "0.08", "GRAIN_VALS": "0.07;0.10;0.06;0.09;0.07",
     },
 }
 
 # active palette — set by set_theme(); defaults to dark
 BG = PANEL = PANEL_BAR = CYAN = VIOLET = VIOLET2 = EMERALD = TEXT = MUTED = DIM = None
 STROKE = STROKE_HI = STROKE_LO = BARLINE = RING_BG = PILL_BG = PILL_STROKE = MONO_TX = None
+AUR = []
+GRAIN_RGB = GRAIN_OP = GRAIN_VALS = None
 DONUT_COLORS = []
 
 def set_theme(name):
@@ -230,6 +236,32 @@ def build(projects, theme="dark"):
     a(f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" '
       f'font-family="{FONT}" role="img" aria-label="Projects">')
     a(f'<rect width="{W}" height="{H}" fill="{BG}"/>')
+    # film grain filter — full-frame noise layer drawn on top of everything
+    rgb = GRAIN_RGB
+    a(f'<defs><filter id="fxGrain" x="0" y="0" width="100%" height="100%">'
+      f'<feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/>'
+      f'<feColorMatrix type="matrix" values="0 0 0 0 {rgb}  0 0 0 0 {rgb}  0 0 0 0 {rgb}  0 0 0 0.55 0"/>'
+      f'</filter>'
+      + "".join(
+          f'<radialGradient id="aur{i}" cx="0.5" cy="0.5" r="0.5">'
+          f'<stop offset="0" stop-color="{c}" stop-opacity="{op}"/>'
+          f'<stop offset="1" stop-color="{c}" stop-opacity="0"/></radialGradient>'
+          for i, (c, op) in enumerate(zip(AUR, ("0.5", "0.42", "0.3", "0.34")))
+      ) + '</defs>')
+    # animated aurora nebula — colorful glows drifting over the dark base
+    a('<g>')
+    blobs = (
+        (0.82, 0.10, 0.45, 0.28, 0, -70, 40, "16s"),
+        (0.12, 0.85, 0.40, 0.26, 1, 90, -50, "19s"),
+        (0.50, 0.45, 0.32, 0.22, 3, -60, 60, "23s"),
+        (0.95, 0.85, 0.35, 0.24, 2, -80, -40, "21s"),
+    )
+    for fx, fy, frx, fry, ai, dx, dy, dur in blobs:
+        cx, cy, rx, ry = fx * W, fy * H, frx * W, fry * H
+        a(f'<ellipse cx="{cx:.0f}" cy="{cy:.0f}" rx="{rx:.0f}" ry="{ry:.0f}" fill="url(#aur{ai})">'
+          f'<animateTransform attributeName="transform" type="translate" '
+          f'values="0 0; {dx} {dy}; 0 0" dur="{dur}" repeatCount="indefinite"/></ellipse>')
+    a('</g>')
     # animated accent gradient (same as banner)
     a(f'<defs><linearGradient id="{gid}" x1="0" y1="0" x2="1" y2="0">'
       f'<stop offset="0" stop-color="{VIOLET2}"><animate attributeName="stop-color" values="{VIOLET2};{CYAN};{EMERALD};{VIOLET2}" dur="10s" repeatCount="indefinite"/></stop>'
@@ -243,6 +275,9 @@ def build(projects, theme="dark"):
         x = MARGIN + (i % 2) * (CARD_W + GAP + 4)
         y = 42 + (i // 2) * (CARD_H + GAP)
         a(card(p, x, y, i))
+    # film grain — topmost layer, subtle flicker like the banner
+    a(f'<rect width="{W}" height="{H}" filter="url(#fxGrain)" opacity="{GRAIN_OP}">'
+      f'<animate attributeName="opacity" values="{GRAIN_VALS}" dur="0.9s" repeatCount="indefinite"/></rect>')
     a('</svg>')
     return "".join(s)
 
