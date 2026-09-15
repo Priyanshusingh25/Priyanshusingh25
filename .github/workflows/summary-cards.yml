@@ -1,14 +1,24 @@
 name: GitHub Profile Summary Cards
 
-# Generates private+public, all-time stats cards using your own token,
-# so totals (commits, PRs, issues, languages, contribution chart) include
-# private repos — unlike the public-only hosted widgets in the README.
-# Requires repo secret SUMMARY_GITHUB_TOKEN (PAT with private-repo read scope).
+# Generates all-time stats cards (commits, PRs, issues, languages,
+# contribution chart, productive time).
+# Zero-setup: runs on the built-in GITHUB_TOKEN, so the `summary-cards`
+# branch is created automatically on push and all README images resolve.
+# NOTE: the built-in token only sees PUBLIC repos.
+# To include PRIVATE repos too: create a PAT (Settings → Developer settings →
+# Personal access tokens → Fine-grained, repo read scope for your private
+# repos), save it as repo secret SUMMARY_GITHUB_TOKEN, enable "Include private
+# contributions on my profile" at github.com/settings/profile, then change the
+# env line below to: GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
 # Cards are pushed to the `summary-cards` branch (kept separate from the
 # `output` snake branch and `projects` branch so scheduled jobs never wipe
 # each other's files).
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/summary-cards.yml"
   schedule:
     - cron: "0 0 * * *" # daily — card queries span all repos, so keep it gentle
   workflow_dispatch:
@@ -23,7 +33,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: Priyanshusingh25
           BRANCH_NAME: "summary-cards"
