@@ -249,7 +249,7 @@ def build(projects, theme="dark"):
 if __name__ == "__main__":
     src = sys.argv[1] if len(sys.argv) > 1 else "merged.json"
     outdir = sys.argv[2] if len(sys.argv) > 2 else "."
-    with open(src) as f:
+    with open(src, encoding="utf-8") as f:
         projects = json.load(f)
     for p in projects:
         p["_logo_b64"] = load_logo_b64(p.get("logo"))
@@ -257,6 +257,6 @@ if __name__ == "__main__":
         set_theme(theme)
         svg = build(projects, theme)
         path = os.path.join(outdir, fname)
-        with open(path, "w") as f:
+        with open(path, "w", encoding="utf-8") as f:
             f.write(svg)
         print(f"wrote {path}: {theme}, {len(projects)} projects, {len(svg)//1024}KB")

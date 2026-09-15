@@ -21,7 +21,7 @@ def gh(url):
         return json.load(r)
 
 def main():
-    with open("projects.json") as f:
+    with open("projects.json", encoding="utf-8") as f:
         projects = json.load(f)
     for p in projects:
         repo = p.get("repo", "").strip()
@@ -39,8 +39,8 @@ def main():
             p.setdefault("stars", 0)
             p.setdefault("languages", {})
             p.setdefault("pushed_at", None)
-    with open("merged.json", "w") as f:
-        json.dump(projects, f)
+    with open("merged.json", "w", encoding="utf-8") as f:
+        json.dump(projects, f, ensure_ascii=False)
     print(f"merged {len(projects)} projects")
 
 if __name__ == "__main__":

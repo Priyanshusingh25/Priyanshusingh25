@@ -1,54 +1,44 @@
 [
   {
-    "name": "Twenty App",
-    "repo": "Priyanshusingh25/twenty-app",
+    "name": "SyncScript",
+    "repo": "Priyanshusingh25/SyncScript",
     "logo": "",
-    "description": "",
-    "tags": [
-      "TypeScript"
-    ]
+    "description": "Real-time doc editor for video creators — word processor + timeline, multi-user live editing.",
+    "tags": ["TypeScript", "Next.js", "Real-time"]
   },
   {
-    "name": "Basic Restfulapi",
-    "repo": "Priyanshusingh25/basic-RestFulAPI",
+    "name": "Enterprise ATS",
+    "repo": "Priyanshusingh25/enterprise-ats",
     "logo": "",
-    "description": "This is a basic api created by using springBoot.",
-    "tags": []
+    "description": "Production-grade Applicant Tracking System — requisitions, Kanban, interview scorecards.",
+    "tags": ["Java", "Spring Boot", "Angular"]
+  },
+  {
+    "name": "RivalLens",
+    "repo": "Priyanshusingh25/RivalLens",
+    "logo": "",
+    "description": "Know what your competitors are doing before your customers do.",
+    "tags": ["JavaScript", "AI", "Chrome Ext"]
+  },
+  {
+    "name": "EveryAI",
+    "repo": "Priyanshusingh25/everyAI",
+    "logo": "",
+    "description": "Curated directory of cutting-edge AI platforms — text, image, voice, automation.",
+    "tags": ["Angular", "TypeScript", "SCSS"]
+  },
+  {
+    "name": "Collabio",
+    "repo": "Priyanshusingh25/Collabio",
+    "logo": "",
+    "description": "Manage collaborations & promotions on social networking sites.",
+    "tags": ["JavaScript", "Web App"]
   },
   {
     "name": "Leave Management System",
     "repo": "Priyanshusingh25/leave-management-system",
     "logo": "",
     "description": "Leaveflow - Employee Leave Management System",
-    "tags": [
-      "Java"
-    ]
-  },
-  {
-    "name": "Hope In Motion",
-    "repo": "Priyanshusingh25/Hope-In-Motion",
-    "logo": "",
-    "description": "",
-    "tags": [
-      "JavaScript"
-    ]
-  },
-  {
-    "name": "Angular",
-    "repo": "Priyanshusingh25/angular",
-    "logo": "",
-    "description": "",
-    "tags": [
-      "TypeScript"
-    ]
-  },
-  {
-    "name": "Evacuate The Sheep Game",
-    "repo": "Priyanshusingh25/Evacuate-The-Sheep-Game",
-    "logo": "",
-    "description": "This game is very tricky. You have to be careful that you do not touch the Devil. Finish on Time or the devil will capture the sheeps..",
-    "tags": [
-      "JavaScript"
-    ]
+    "tags": ["Java", "Spring Boot", "Angular"]
   }
 ]
