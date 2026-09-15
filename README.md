@@ -10,18 +10,18 @@
 <!-- ===== OPEN TO WORK / SERVICES ===== -->
 <div align="center">
 
-### 💼 What I do — Open to Freelance, Contract & Full-time
+### Open to Freelance, Contract & Full-time
 
 **Ex-IBM & Salesforce Intern | Full-stack Developer for Startups & Businesses**
 
 | Service | Stack |
 |---|---|
-| 🌐 Full-stack web app development | Angular / React + Spring Boot / Node.js, MySQL / MongoDB, Docker |
-| 🔌 REST API design with Spring Boot | JWT auth, Spring Security, JPA, PostgreSQL/MySQL |
-| 📊 Angular frontend builds & dashboards | ATS panels, Kanban, scorecards, responsive UIs (e.g. enterprise-ats, Leaveflow) |
-| ⚡ Real-time & AI apps | Next.js / TypeScript, real-time collab, AI directories (e.g. SyncScript, everyAI, RivalLens) |
+| Full-stack web app development | Angular / React + Spring Boot / Node.js, MySQL / MongoDB, Docker |
+| REST API design with Spring Boot | JWT auth, Spring Security, JPA, PostgreSQL/MySQL |
+| Angular frontend builds & dashboards | ATS panels, Kanban, scorecards, responsive UIs (e.g. enterprise-ats, Leaveflow) |
+| Real-time & AI apps | Next.js / TypeScript, real-time collab, AI directories (e.g. SyncScript, everyAI, RivalLens) |
 
-**📍 Pune, India · Remote-friendly · ✅ Available now — replies within 24h**
+**📍 Pune, India · Remote-friendly ·  Available now — replies within 24h**
 
 **📩 Let's work together:**
 <a href="mailto:singhpriyanshu2508@gmail.com">Email me</a> ·
