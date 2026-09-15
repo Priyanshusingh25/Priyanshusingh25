@@ -70,6 +70,8 @@
   <img width="100%" src="https://raw.githubusercontent.com/Priyanshusingh25/Priyanshusingh25/projects/projects-light.svg" alt="Projects" />
 </picture>
 </div>
+<br/>
+<div align="center">
 
  **📩 Let's work together:**
 <a href="mailto:singhpriyanshu2508@gmail.com">Email me</a> ·
@@ -77,6 +79,8 @@
 <a href="https://priyanshu-b4g.pages.dev/">Portfolio</a>
 <br/>
 <sub>Recruiters / founders: send a role or project brief + timeline — I'll reply with plan + estimate.</sub>
+
+</div>
 
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
