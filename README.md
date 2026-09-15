@@ -12,8 +12,6 @@
 
 ### Open to Freelance, Contract & Full-time
 
-**Ex-IBM & Salesforce Intern | Full-stack Developer for Startups & Businesses**
-
 | Service | Stack |
 |---|---|
 | Full-stack web app development | Angular / React + Spring Boot / Node.js, MySQL / MongoDB, Docker |
