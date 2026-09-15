@@ -19,14 +19,7 @@
 | Angular frontend builds & dashboards | ATS panels, Kanban, scorecards, responsive UIs (e.g. enterprise-ats, Leaveflow) |
 | Real-time & AI apps | Next.js / TypeScript, real-time collab, AI directories (e.g. SyncScript, everyAI, RivalLens) |
 
-**📍 Pune, India · Remote-friendly ·  Available now — replies within 24h**
-
-**📩 Let's work together:**
-<a href="mailto:singhpriyanshu2508@gmail.com">Email me</a> ·
-<a href="https://www.linkedin.com/in/priyanshu-singh-0x12/">LinkedIn DM</a> ·
-<a href="https://priyanshu-b4g.pages.dev/">Portfolio</a>
-<br/>
-<sub>Recruiters / founders: send a role or project brief + timeline — I'll reply with plan + estimate.</sub>
+**Remote-friendly ·  Available now — replies within 24h**
 
 </div>
 
@@ -53,6 +46,14 @@
 </picture>
 
 </div>
+
+**📩 Let's work together:**
+<a href="mailto:singhpriyanshu2508@gmail.com">Email me</a> ·
+<a href="https://www.linkedin.com/in/priyanshu-singh-0x12/">LinkedIn DM</a> ·
+<a href="https://priyanshu-b4g.pages.dev/">Portfolio</a>
+<br/>
+<sub>Recruiters / founders: send a role or project brief + timeline — I'll reply with plan + estimate.</sub>
+
 
 <sub>📊 Stats include private contributions & all commits · 🔥 Active collaborator (Pull Shark · YOLO) · 🐍 Contribution snake + 💼 Projects panel auto-refresh every 6h</sub>
 
