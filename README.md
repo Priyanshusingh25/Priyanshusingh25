@@ -139,13 +139,13 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priyanshusingh25/Priyanshusingh25/main/wave-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priyanshusingh25/Priyanshusingh25/main/wave-light.svg">
   <img width="100%" src="https://raw.githubusercontent.com/Priyanshusingh25/Priyanshusingh25/main/wave-light.svg" alt="blood wave divider">
 </picture>
-</div>
+</div> -->
 
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
